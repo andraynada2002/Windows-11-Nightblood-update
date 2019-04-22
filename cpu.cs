@@ -21,6 +21,13 @@ namespace cpu;
 	protected cpu;
 	private protected cpu;
 	public protected cpu;
+	byte 3;
+	private byte 2;
+	public byte 1;
+	sbyte 3;
+	private sbyte 2;
+	public sbyte 3;
 }
+
 
 
