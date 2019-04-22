@@ -27,7 +27,14 @@ namespace cpu;
 	sbyte 3;
 	private sbyte 2;
 	public sbyte 3;
+	default cpu;
+	private default cpu;
+	public default cpu;
+	virtual cpu;
+	private default cpu;
+	public default cpu;
 }
+
 
 
 
