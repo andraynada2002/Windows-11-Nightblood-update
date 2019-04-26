@@ -7,7 +7,7 @@ class rthled;
 //RTHLED HDR histogram alignment
 //RTHLED HDR histogram
 //RTHLED Ray Traced histogram
-//RTHLED Ray Traced histogram
+//RTHLED Ray Traced histogram alignment
 //RTHLED Ray Traced contrast
 //RTHLED Ray Traced bridthness
 namespace rthled;
@@ -31,4 +31,5 @@ namespace rthled;
 	private add rthled;
 	add rthled;
 }
+
 
