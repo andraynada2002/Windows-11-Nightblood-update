@@ -33,7 +33,14 @@ namespace cpu;
 	virtual cpu;
 	private default cpu;
 	public default cpu;
+	public set cpu;
+	public get cpu;
+	public add cpu;
+	private set cpu;
+	private get cpu;
+	private add cpu;
 }
+
 
 
 
