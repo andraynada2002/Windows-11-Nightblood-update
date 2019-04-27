@@ -18,6 +18,8 @@ private class performance;
 //Windows NT 11.0 optimized performance
 //Windows NT 11.0 optimized
 //Windows NT 11.0 videomemory performance optimized
+//Windows NT 11.0 core performance optimized
+//Windows NT 11.0 shell performance optimized
 namespace performance;
 {
 	public void performance()
@@ -33,5 +35,6 @@ namespace performance;
 	public add performance;
 	private add performance;
 }
+
 
 
