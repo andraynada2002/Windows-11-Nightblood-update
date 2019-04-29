@@ -49,6 +49,26 @@ private class performance;
 //Windows NT 11.0 toolbar detached
 //Windows NT 11.0 toolbar performance attached
 //Windows NT 11.0 toolbar detached
+//Windows NT 11.0 applications attached
+//Windows NT 11.0 applications detached
+//Windows NT 11.0 applications performance attached
+//Windows NT 11.0 applications performance detached
+//Windows NT 11.0 keyboard attached
+//Windows NT 11.0 keyboard detached
+//Windows NT 11.0 keyboard performance attached
+//Windows NT 11.0 keyboard performance detached
+//Windows NT 11.0 mouse attached
+//Windows NT 11.0 mouse detached
+//Windows NT 11.0 mouse performance attached
+//Windows NT 11.0 mouse performance detached
+//Windows NT 11.0 desktop attached
+//Windows NT 11.0 desktop detached
+//Windows NT 11.0 desktop performance attached
+//Windows NT 11.0 desktop performance detached
+//Windows NT 11.0 explorer attached
+//Windows NT 11.0 explorer detached
+//Windows NT 11.0 explorer performance attached
+//Windows NT 11.0 explorer performance detached
 namespace performance;
 {
 	public void performance()
@@ -64,6 +84,10 @@ namespace performance;
 	public add performance;
 	private add performance;
 }
+
+
+
+
 
 
 
