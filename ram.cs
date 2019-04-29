@@ -14,8 +14,8 @@ private class ram;
 //RAM type physical memory
 //RAM detached
 //RAM attached
-//RAM attached performance
 //RAM detached performance
+//RAM attached performance
 namespace ram;
 {
 	void ram()
@@ -37,6 +37,7 @@ namespace ram;
 	private add ram;
 	private get ram;
 }
+
 
 
 

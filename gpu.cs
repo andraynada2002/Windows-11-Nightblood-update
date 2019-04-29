@@ -19,8 +19,8 @@ class gpu;
 //GPU HDR histogram
 //GPU detached
 //GPU attached
-//GPU attached performance
 //GPU detached performance
+//GPU attached performance
 namespace gpu;
 {
 	public int 2;
@@ -36,6 +36,7 @@ namespace gpu;
 	private get gpu;
 	private add gpu;
 }
+
 
 
 

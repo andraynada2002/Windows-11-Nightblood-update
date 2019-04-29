@@ -32,43 +32,43 @@ private class performance;
 //Windows NT 11.0 Wi-Fi attached
 //Windows NT 11.0 Ethernet detached
 //Windows NT 11.0 Ethernet attached
-//Windows NT 11.0 core performance attached
 //Windows NT 11.0 core performance detached
-//Windows NT 11.0 shell performance attached
+//Windows NT 11.0 core performance attached
 //Windows NT 11.0 shell performance detached
-//Windows NT 11.0 videomemory attached
+//Windows NT 11.0 shell performance attached
 //Windows NT 11.0 videomemory detached
-//Windows NT 11.0 videomemory performance attached
+//Windows NT 11.0 videomemory  attached
 //Windows NT 11.0 videomemory performance detached
+//Windows NT 11.0 videomemory performance attached
 //Windows NT 11.0 UI
-//Windows NT 11.0 UI attached
 //Windows NT 11.0 UI detached
-//Windows NT 11.0 UI performance attached
+//Windows NT 11.0 UI attached
 //Windows NT 11.0 UI performance detached
+//Windows NT 11.0 UI performance attached
+//Windows NT 11.0 toolbar detached
 //Windows NT 11.0 toolbar attached
-//Windows NT 11.0 toolbar detached
-//Windows NT 11.0 toolbar performance attached
-//Windows NT 11.0 toolbar detached
-//Windows NT 11.0 applications attached
+//Windows NT 11.0 toolbar performance detached
+//Windows NT 11.0 toolbar attached
 //Windows NT 11.0 applications detached
-//Windows NT 11.0 applications performance attached
+//Windows NT 11.0 applications attached
 //Windows NT 11.0 applications performance detached
-//Windows NT 11.0 keyboard attached
+//Windows NT 11.0 applications performance attached
 //Windows NT 11.0 keyboard detached
-//Windows NT 11.0 keyboard performance attached
+//Windows NT 11.0 keyboard attached
 //Windows NT 11.0 keyboard performance detached
-//Windows NT 11.0 mouse attached
+//Windows NT 11.0 keyboard performance attached
 //Windows NT 11.0 mouse detached
-//Windows NT 11.0 mouse performance attached
+//Windows NT 11.0 mouse attached
 //Windows NT 11.0 mouse performance detached
-//Windows NT 11.0 desktop attached
+//Windows NT 11.0 mouse performance attached
 //Windows NT 11.0 desktop detached
-//Windows NT 11.0 desktop performance attached
+//Windows NT 11.0 desktop attached
 //Windows NT 11.0 desktop performance detached
-//Windows NT 11.0 explorer attached
+//Windows NT 11.0 desktop performance attached
 //Windows NT 11.0 explorer detached
-//Windows NT 11.0 explorer performance attached
+//Windows NT 11.0 explorer attached
 //Windows NT 11.0 explorer performance detached
+//Windows NT 11.0 explorer performance attached
 namespace performance;
 {
 	public void performance()
@@ -84,6 +84,7 @@ namespace performance;
 	public add performance;
 	private add performance;
 }
+
 
 
 
