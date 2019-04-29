@@ -28,6 +28,27 @@ private class performance;
 //Windows NT 11.0 shell detached
 //Windows NT 11.0 core attached
 //Windows NT 11.0 shell attached
+//Windows NT 11.0 Wi-Fi detached
+//Windows NT 11.0 Wi-Fi attached
+//Windows NT 11.0 Ethernet detached
+//Windows NT 11.0 Ethernet attached
+//Windows NT 11.0 core performance attached
+//Windows NT 11.0 core performance detached
+//Windows NT 11.0 shell performance attached
+//Windows NT 11.0 shell performance detached
+//Windows NT 11.0 videomemory attached
+//Windows NT 11.0 videomemory detached
+//Windows NT 11.0 videomemory performance attached
+//Windows NT 11.0 videomemory performance detached
+//Windows NT 11.0 UI
+//Windows NT 11.0 UI attached
+//Windows NT 11.0 UI detached
+//Windows NT 11.0 UI performance attached
+//Windows NT 11.0 UI performance detached
+//Windows NT 11.0 toolbar attached
+//Windows NT 11.0 toolbar detached
+//Windows NT 11.0 toolbar performance attached
+//Windows NT 11.0 toolbar detached
 namespace performance;
 {
 	public void performance()
@@ -43,6 +64,11 @@ namespace performance;
 	public add performance;
 	private add performance;
 }
+
+
+
+
+
 
 
 
