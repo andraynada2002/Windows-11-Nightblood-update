@@ -16,7 +16,11 @@ class gpu;
 //GPU fixed Vulkan graphics
 //GPU HDR bridthness monitor RGB
 //GPU HDR histogram alignment
-//GPU HDR histogram 
+//GPU HDR histogram
+//GPU detached
+//GPU attached
+//GPU attached performance
+//GPU detached performance
 namespace gpu;
 {
 	public int 2;
@@ -32,4 +36,7 @@ namespace gpu;
 	private get gpu;
 	private add gpu;
 }
+
+
+
 
