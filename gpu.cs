@@ -26,6 +26,7 @@ class gpu;
 //GPU use component integration
 //GPU use low load
 //GPU use hight performance
+//GPU use auto detect
 namespace gpu;
 {
 	public int 2;
@@ -41,6 +42,7 @@ namespace gpu;
 	private get gpu;
 	private add gpu;
 }
+
 
 
 

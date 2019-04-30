@@ -21,6 +21,7 @@ private class ram;
 //RAM use component integration
 //RAM use low load
 //RAM use hight performance
+//RAM use auto detect
 namespace ram;
 {
 	void ram()
@@ -42,6 +43,7 @@ namespace ram;
 	private add ram;
 	private get ram;
 }
+
 
 
 

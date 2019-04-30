@@ -16,6 +16,7 @@ class cpu;
 //CPU use component integration
 //CPU use low load
 //CPU use hight performance
+//CPU use auto detected
 namespace cpu;
 {
 	void cpu()
@@ -49,6 +50,7 @@ namespace cpu;
 	private get cpu;
 	private add cpu;
 }
+
 
 
 
