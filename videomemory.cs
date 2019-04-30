@@ -27,6 +27,8 @@ class Videomemory;
 //Videomemory use low load
 //Videomemory use hight performance
 //Videomemory use auto detect
+//Videomemory use AMD auto detect
+//Videomemory use Nvidia auto detect
 namespace Videomemory;
 {
 	public int 2;
@@ -40,8 +42,9 @@ namespace Videomemory;
 	public get Videomemory;
 	private set Videomemory;
 	private get Videomemory;
-	private add Videomemory;
+	private add	Videomemory;
 }
+
 
 
 

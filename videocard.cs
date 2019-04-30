@@ -27,6 +27,8 @@ class Videocard;
 //Videocard use low load
 //Videocard use hight performance
 //Videocard use auto detect
+//Videocard use AMD auto detect
+//Videocard use Nvidia auto detect
 namespace Videocard;
 {
 	public int 2;
@@ -42,5 +44,6 @@ namespace Videocard;
 	private get Videocard;
 	private add Videocard;
 }
+
 
 
