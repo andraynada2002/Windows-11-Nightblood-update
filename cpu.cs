@@ -7,10 +7,15 @@ class cpu;
 //CPU load optimized
 //CPU performance optimized
 //CPU repaired performance
-//GPU detached
-//GPU attached
-//GPU attached performance
-//GPU detached performance
+//CPU detached
+//CPU attached
+//CPU detached performance
+//CPU attached performance
+//CPU using low power consumption
+//CPU using low heat
+//CPU using component integration
+//CPU using low load
+//CPU using hight performance
 namespace cpu;
 {
 	void cpu()
@@ -44,6 +49,14 @@ namespace cpu;
 	private get cpu;
 	private add cpu;
 }
+
+
+
+
+
+
+
+
 
 
 

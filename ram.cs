@@ -16,6 +16,11 @@ private class ram;
 //RAM attached
 //RAM detached performance
 //RAM attached performance
+//RAM using low power consumption
+//RAM using low heat
+//RAM using component integration
+//RAM using low load
+//RAM using hight performance
 namespace ram;
 {
 	void ram()
@@ -37,6 +42,11 @@ namespace ram;
 	private add ram;
 	private get ram;
 }
+
+
+
+
+
 
 
 

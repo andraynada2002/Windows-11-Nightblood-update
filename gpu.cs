@@ -21,6 +21,11 @@ class gpu;
 //GPU attached
 //GPU detached performance
 //GPU attached performance
+//GPU using low power consumption
+//GPU using low heat
+//GPU using component integration
+//GPU usign low load
+//GPU using hight performance
 namespace gpu;
 {
 	public int 2;
@@ -36,6 +41,11 @@ namespace gpu;
 	private get gpu;
 	private add gpu;
 }
+
+
+
+
+
 
 
 
