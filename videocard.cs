@@ -26,6 +26,7 @@ class Videocard;
 //Videocard use component integration
 //Videocard use low load
 //Videocard use hight performance
+//Videocard use auto detect
 namespace Videocard;
 {
 	public int 2;
@@ -41,4 +42,5 @@ namespace Videocard;
 	private get Videocard;
 	private add Videocard;
 }
+
 
