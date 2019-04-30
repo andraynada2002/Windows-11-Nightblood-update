@@ -6,11 +6,11 @@ class wifiplx;
 //Wi-Fi speed optimized
 //Wi-Fi connection optimized
 //Wi-Fi ping optimized
-//Wi-Fi using low heat
-//Wi-Fi using low power consumption
-//Wi-Fi using component integration
-//Wi-Fi using low load
-//Wi-Fi using hight performance
+//Wi-Fi use low heat
+//Wi-Fi use low power consumption
+//Wi-Fi use component integration
+//Wi-Fi use low load
+//Wi-Fi use hight performance
 namespace wifi;
 {
  void wifi;
@@ -25,6 +25,7 @@ namespace wifi;
  public add wifi;
  private add wifi;
  }
+ 
  
  
  

@@ -11,11 +11,11 @@ class cpu;
 //CPU attached
 //CPU detached performance
 //CPU attached performance
-//CPU using low power consumption
-//CPU using low heat
-//CPU using component integration
-//CPU using low load
-//CPU using hight performance
+//CPU use low power consumption
+//CPU use low heat
+//CPU use component integration
+//CPU use low load
+//CPU use hight performance
 namespace cpu;
 {
 	void cpu()
@@ -49,6 +49,7 @@ namespace cpu;
 	private get cpu;
 	private add cpu;
 }
+
 
 
 
