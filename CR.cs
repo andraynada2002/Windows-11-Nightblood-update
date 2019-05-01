@@ -19,6 +19,8 @@ class cr;
 //Google Chrome use optimized webgl
 //Google Chrome use optimized extensions
 //Google Chrome use optimized api
+//Google Chrome use disabled lags
+//Google Chrome use disabled freeze
 namespace cr;
 {
 	public void cr;
@@ -34,3 +36,4 @@ namespace cr;
 	private set cr;
 	private add cr;
 }
+
