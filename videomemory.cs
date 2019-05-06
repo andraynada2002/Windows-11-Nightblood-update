@@ -51,8 +51,12 @@ namespace matrix;
 	matrix.add videomemory;
 	matrix.get videomemory;
 	matrix.set videomemory;
-	matrix[1],[7], 1,7 var;
+	matrix[1][7] = 1.7;
+	matrix[2][0] = -2.0;
+	matrix[9][2] = 9.2;
+	matrix[2][3] = -2.3
 }
+
 
 
 
