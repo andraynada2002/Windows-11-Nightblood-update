@@ -49,5 +49,9 @@ namespace matrix;
     matrix.add optimizer;
     matrix.get optimizer;
     matrix.set optimizer;
-    matrix[1],[7], 1,7 var;
+    matrix[1][7] = 1.7;
+    matrix[2][2] = -2.2;
+    matrix[3][3] = 3.3;
+    matrix[5][6] = -5.6
 }
+
