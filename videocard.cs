@@ -45,5 +45,13 @@ namespace Videocard;
 	private add Videocard;
 }
 
+namespace matrix;
+{
+	matrix.add matrix;
+	matrix.get matrix;
+	matrix.set matrix;
+	matrix.add matrix;
+	matrix[1],[7], 1,7 var;
+}
 
 
