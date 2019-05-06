@@ -58,5 +58,9 @@ namespace matrix;
 	matrix.add skynet;
 	matrix.get skynet;
 	matrix.set skynet;
-	matrix[1],[7], 1,7 var;
+	matrix[1][6] = 1.6;
+	matrix[1][2] = -1.2;
+	matrix[2][3] = 2.3;
+	matrix[3][4] = -3.4 
 }
+
