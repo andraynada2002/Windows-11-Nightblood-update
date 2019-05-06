@@ -21,3 +21,11 @@ namespace explorer;
  private add explorer;
 }
 
+namespace matrix;
+{
+	matrix.add matrix;
+	matrix.add explorer;
+	matrix.get explorer;
+	matrix.set explorer;
+	matrix[1],[7], 1,7 var;
+}
