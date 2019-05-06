@@ -45,6 +45,14 @@ namespace Videomemory;
 	private add	Videomemory;
 }
 
+namespace matrix;
+{
+	matrix.add matrix;
+	matrix.add videomemory;
+	matrix.get videomemory;
+	matrix.set videomemory;
+	matrix[1],[7], 1,7 var;
+}
 
 
 
