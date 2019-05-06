@@ -57,8 +57,12 @@ namespace matrix;
 	matrix.add cpu;
 	matrix.set cpu;
 	matrix.get cpu;
-	matrix[1],[7] 1,7 var;,
+	matrix[1][7] = 1.7;
+	matrix[2][4] = 2.4;
+	matrix[1][4] = -1.4;
+	matrix[9][4] = 9.4;
 }
+
 
 
 
