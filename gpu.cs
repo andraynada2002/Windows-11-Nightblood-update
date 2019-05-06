@@ -49,8 +49,12 @@ namespace matrix;
 	matrix.add gpu;
 	matrix.set gpu;
 	matrix.get gpu;
-	matrix[1],[7], 1,7 var;
+	matrix[1][7] = 1.7;
+	matrix[3][2] = -3.2;
+	matrix[7][2] = 7.2;
+	matrix[10][5] = 10.5;
 }
+
 
 
 
