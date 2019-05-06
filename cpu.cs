@@ -51,6 +51,15 @@ namespace cpu;
 	private add cpu;
 }
 
+namespace matrix;
+{
+	matrix.add matrix;
+	matrix.add cpu;
+	matrix.set cpu;
+	matrix.get cpu;
+	matrix[1],[7] 1,7 var;,
+}
+
 
 
 

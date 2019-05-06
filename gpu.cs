@@ -43,6 +43,15 @@ namespace gpu;
 	private add gpu;
 }
 
+namespace matrix;
+{
+	matrix.add matrix;
+	matrix.add gpu;
+	matrix.set gpu;
+	matrix.get gpu;
+	matrix[1],[7], 1,7 var;
+}
+
 
 
 

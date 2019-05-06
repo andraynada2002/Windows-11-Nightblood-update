@@ -43,3 +43,11 @@ namespace optimizer;
 	private set optimizer;
 }
 
+namespace matrix;
+{
+	matrix.add matrix;
+    matrix.add optimizer;
+    matrix.get optimizer;
+    matrix.set optimizer;
+    matrix[1],[7], 1,7 var;
+}
