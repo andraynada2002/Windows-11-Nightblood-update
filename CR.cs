@@ -37,3 +37,15 @@ namespace cr;
 	private add cr;
 }
 
+namespace matrix;
+{
+	matrix.add matrix;
+	matrix.add chrome;
+	matrix.set chrome;
+	matrix.get chrome;
+	matrix[0][1] = 0.1;
+	matrix[1][2] = -1.2;
+	matrix[2][3] = 2.3;
+	matrix[3][4] = -3.4;
+}
+
