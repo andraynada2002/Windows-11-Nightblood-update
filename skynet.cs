@@ -51,3 +51,12 @@ namespace skynet;
 	private set skynet;
 	private add skynet;
 }
+
+namespace matrix;
+{
+	matrix.add matrix;
+	matrix.add skynet;
+	matrix.get skynet;
+	matrix.set skynet;
+	matrix[1],[7], 1,7 var;
+}
