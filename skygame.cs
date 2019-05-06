@@ -29,4 +29,16 @@ class skygame;
 	private add skygame;
 }
 
+namespace matrix;
+{
+	matrix.add matrix;
+	matrix.add skygame;
+	matrix.get skygame;
+	matrix.set skygame;
+	matrix[1][2] = 1.2;
+	matrix[2][3] = -2.3;
+	matrix[3][4] = 3.4;
+	matrix[4][5] = 4.5;
+}
+
 
