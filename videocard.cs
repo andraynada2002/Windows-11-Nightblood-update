@@ -51,7 +51,9 @@ namespace matrix;
 	matrix.get matrix;
 	matrix.set matrix;
 	matrix.add matrix;
-	matrix[1],[7], 1,7 var;
+	matrix[1][7] = 1.7;
+	matrix[2][4] = -2.4;
+	matrix[3][4] = 3.4;
+	matrix[3][2] = -3.2;
 }
-
 
