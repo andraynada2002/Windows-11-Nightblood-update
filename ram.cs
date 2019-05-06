@@ -50,8 +50,12 @@ namespace matrix;
 	matrix.set ram;
 	matrix.get ram;
 	matrix.add ram;
-	matrix[1],[7], 1,7 var;
+	matrix[1][7] = 1.7;
+	matrix[3][4] = -3.4;
+	matrix[7][5] = 7.5;
+	matrix[4][6] = -4.6;
 }
+
 
 
 
