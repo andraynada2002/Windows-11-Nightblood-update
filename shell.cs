@@ -322,3 +322,33 @@ Windows_shell depixelated_display;
 
 Windows_shell depixelated_display;
 
+Windows_shell volumed_display_pixels;
+
+Windows_shell volumed_display_pixels;
+
+Windows_shell hight_definition_display_gamma;
+Windows_shell hight_quality_display_gamma;
+Windows_shell Hight_volumed_display_gamma;
+
+Windows_shell hight_definition_display_gamma;
+Windows_shell hight_quality_display_gamma;
+Windows_shell Hight_volumed_display_gamma;
+
+Artex Joy;
+
+Artex Joy;
+
+Apex Windows_shell;
+
+Apex Windows_shell;
+
+Windows_shell Internet_fixed;
+Windows_shell Internet_speed_fixed;
+Windows_shell Internet_ping_fixed;
+Windows_shell Internet_connection_fixed;
+
+Windows_shell Internet_fixed;
+Windows_shell Internet_speed_fixed;
+Windows_shell Internet_ping_fixed;
+Windows_shell Internet_connection_fixed;
+
